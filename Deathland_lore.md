@@ -36,7 +36,7 @@ A fight starts, Kavadar either chooses to kill the Knight of Red [K] or to spare
 |Mana regen goes faster|
 
 ### [The green ones]
-	Kavadar continues down the dungeon, soon enough he finds a green object and notces that if he touches it he gets hurt.
+Kavadar continues down the dungeon, soon enough he finds a green object and notces that if he touches it he gets hurt.
 In the next part Kavadar meats mostly pizzels, traps and obsticles that include the hurtful green and his red to show to the player the basic color mechanic
 Eventually he starts seeing green enemies and he notices that they seem easier to hurt with his red sword. Soon after Kavadar meets Lord Moss.
 	Radi'lus:	-Aaah. A red being dares crossing my biome? You must be the most brave or the most stupid of all.<br/>
@@ -77,43 +77,47 @@ Kavadar: -Hm... I am very intrigued. I should find more information about the pa
 ************
 
 ### [Characters]
-	Kavadar: A person that died in the realm of the living, aka Earth and came in the world of the dead without having any idea who he is, where he is and what happened. His goal
-is to find out what is happening as well to decide what he should do in this realm.
+Kavadar: A person that died in the realm of the living, aka Earth and came in the world of the dead without having any idea who he is, where he is and what happened. His goal
+is to find out what is happening as well to decide what he should do in this realm.<br/>
 
-	The Color Beings: The Color Beings were created by The Long Forgotten Gods. Each color corresponds to a different area of existing. Each unconsecrated dodger would become a color being
+The Color Beings: The Color Beings were created by The Long Forgotten Gods. Each color corresponds to a different area of existing. Each unconsecrated dodger would become a color being
 and specificly the type of being that corresponds of their failed purpose in the previous realm - Terrene. For example, if a dodger failed to become a great warrior in their past life, they would become
 a red being so they can become wariors in this realm more easy. This way they would serve to The Long Forgotten Gods as a punishment for not improving anyhow the previous realm. The Color Beings
 rose up eventualy and overthrowed The Long Forgotten Gods, locking them in the deepest corner of Deathland as a revenge, so they can never rule them again. The main leaders of the rebelion separated
 the realm equaly. Since then they all made a promise to never let a dodger reach the gates to the previous realm, so the realm of Terrene can blunder and The Long Forgotten Gods's dream of improving it, gets 
-destroyed. After time The Color Beings became greedy and started a war for teritory between each other. Sadly the war stays till nowadats as well as the promise.
+destroyed. After time The Color Beings became greedy and started a war for teritory between each other. Sadly the war stays till nowadats as well as the promise.<br/>
 
-	The Long Forgotten Gods: They are the gods that created the realm Deathland for the mortals, as well as many other realms. They were the most powerful creatures in the universe
+The Long Forgotten Gods: They are the gods that created the realm Deathland for the mortals, as well as many other realms. They were the most powerful creatures in the universe
 but long time ago were overthrown by the people of Deathland. They were trapped somewhere deep in Deathland and were never heard of again. This happened so long time ago, that everybody forgot
-their names and just refered to them as The Long Forgotten Gods.
+their names and just refered to them as The Long Forgotten Gods.<br/>
 	
-	Knight Of Red: Her name is Redéye. She is a villian who rules the Red. Her father was the one who helped in the rebelion against The Long Forgotten Gods and calimed the title as ruler of the Red.
+Knight Of Red: Her name is Redéye. She is a villian who rules the Red. Her father was the one who helped in the rebelion against The Long Forgotten Gods and calimed the title as ruler of the Red.
 After his final death Redéye came on the throne as the new ruler. She is powerfull looking with pretty agressive fighting style, mainly with longsword and with shield. Even though her fighting style is fast
-and agressive it remains pretty predictable. She can use magic as well and summon fireballs.
+and agressive it remains pretty predictable. She can use magic as well and summon fireballs.<br/>
 
-	Lord Moss: His name is Radi'lus. He is a villian who rules the Green. He and his brothers were part of the rebelion against The Long Forgotten Gods. After they defeated them they separated the
+Lord Moss: His name is Radi'lus. He is a villian who rules the Green. He and his brothers were part of the rebelion against The Long Forgotten Gods. After they defeated them they separated the
 green biome between each other. In time the brothers grew hungry for more power and started the Green War, which ended with Radi'lus killing all of his brothers and keeping all the green biome for himself.
 His prefered weapons are mace, moss magic and toxic waste. Using his moss powers he can move fast for short periods of time. Generaly his attacks are slow and heavy with lack of precision. Yet his
-furious confidence and agression are visible.
+furious confidence and agression are visible.<br/>
 
 
 ### [Locations]
-	Deathland: This is the main location in the game. Deathland was once created by The long forgotten gods, which made this place as a final realm for the
+Deathland: This is the main location in the game. Deathland was once created by The long forgotten gods, which made this place as a final realm for the
 mortals, so the unsuccessfull ones can spend their eternaty serving the gods. While the succsessfull ones
 could go back to the previous realm and live and improve the realm further. Sadly after time the citizens of
 Deathland took over the realm as revenge against The long forgotten gods. They became guardians of thy
 world and sweared with their final lives to prevent anyone of reaching the previous realm ever again.
 Native species:  Blue, Red, Purple, Green, Brown, Yellow, Orange, Pink
-Government Type: Military Dictatorship, Anarchy, Tribalism, Meritocracy
+Government Type: Military Dictatorship, Anarchy, Tribalism, Meritocracy<br/>
 
-	Terrene: This is the world of the living, where all beings in Deathland come from. Terrene is the equivalent of our world. Ones you die there you go to Necrosis - the realm between realms. 
-There you either stay a dodger(soul) or either you become a color being. From there you go to Deathland.
+Terrene: This is the world of the living, where all beings in Deathland come from. Terrene is the equivalent of our world. Ones you die there you go to Necrosis - the realm between realms. 
+There you either stay a dodger(soul) or either you become a color being. From there you go to Deathland.<br/>
+Native species:  Humans and animals  <br/>
+Government Type: Mixed  <br/>
 
-	Necrosis: This the world between Terrene and Deathland. It is all white and it's used to decide the fate of all dodgers who will continue to Deathland.
+Necrosis: This the world between Terrene and Deathland. It is all white and it's used to decide the fate of all dodgers who will continue to Deathland.<br/>
+Native species:  None  <br/>
+Government Type: None  <br/>
 
 
 ### [Additional info]
