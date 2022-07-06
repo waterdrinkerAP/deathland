@@ -47,7 +47,7 @@ A fight starts, Kavadar either chooses to kill the Lord Moss [K] or to spare him
 
 [K]	Radi'lus:	-Now I see why you are so powerful. You are a consecrated dodger! You must die! Die! Here and now, die!<br/>
 	Kavadar: 	-You are the one who dies now! *kills him* *absorbs the green*<br/>
-|Nothing happens|
+|Nothing happens|<br/>
 
 [S]	Radi'lus:	- Now I see why you are so powerful. You are a consecrated dodger! You must die! Die! Here and now, die!<br/>
 	Kavadar: 	- Yeah? And what is this thing consecrated dogder? Why everyone hates this thing?<br/>
@@ -66,10 +66,91 @@ A fight starts, Kavadar either chooses to kill the Lord Moss [K] or to spare him
  			- Remember one thing, Kavadar. We are not friends, I give you this gift so you can get corrupt... ah... I mean... from pure kindness. The next time I see you I will kill you.<br/>
 			- Then I will be ready to throw your stones on your own head. Goodbye Radi'lus! *goes away*<br/>
 
+|Player receives something, idk xD we will think about it|<br/>
+
 ### [The blue ones]
 Kavadar notices that the dungeon is going more and more deeper down. Eventualy he finds an old sign that says:<br/> "We came from Terrene, but Necrosis gave birth to us. Together with thy zingiberene we signed a truce. For the cause of defeating thy gods. So we won, omitting the odds"<br/>
 Kavadar: -Hm... I am very intrigued. I should find more information about the past of this place. Better open my eyes for such signs.<br/>
+Again Kavadar eventualy meets the ruler of the blue biome Semigod Of Blue. <br/>
 
+Bubble'Blu: -Ah! You should be the consecrated one. I have heared what you did in the Red and the Green biome. And honestly I should thank you. Now my people will manage to take over their terrotories easier.
+We shall not fight now. I will even forgive you for slaughtering some of my men and let you go. What do you say dodger ? <br/>
+Kavadar choses to agree[A] or to continue the conversation[C] <br/>
+
+[A] Kavadar: -Well ok. You seem like a nice guy. Thank you. *goes on his way* <br/>
+|Semigod Of Blue attacks him while Kavadar is defenceless and the battle begins with Kavadar on half health|<br/>
+
+[C] Kavadar: -And why should I trust you? Don't you need to kill me because I am a consecrated one like the other rulers?<br/>
+Buble'Blu:- No... no,no,no. You see dodger I am not like the others. I don't follow the rules of this wreched realm. I like to use a good chance when I see it. You understand?<br/>
+- Ok... May I ask you something?<br/>
+-Sure dodger.<br/>
+-What is your name? <br/>
+-I am Bubble'Blu! The Semigod Of Blue.<br/>
+-Ok, Semigod Of Blue. If you don't want to kill me then tell me why there are some of your people above us, being ready to shoot me?<br/>
+-Eh? Well they... Oh crap! Ok boys, kill him!<br/>
+|Fight begins|<br/>
+
+A fight starts, Kavadar either chooses to kill the Semigod of Blue [K] or to spare him [S] <br/>
+
+[K] Kavadar: -Your lies are sharper than your trident, Semigod! <br/>
+Buble'Blu: - No! Dodger, listen to me, I can help you! I can help you find the way to Terrene. Just let me be!<br/>
+- Your lies will not be able to hurt anyone anymore! Goodbye, Samigod! <br/>
+*absorbs the blue power from the semigod*<br/>
+|Player receives something|
+
+[S] Kavadar: -Your lies are sharper than your trident, Semigod! <br/>
+Buble'Blu: - No! Dodger, listen to me, I can help you! I can help you find the way to Terrene. Just let me be!<br/>
+- First tell me what is happening and why everyone tries to kill me ? <br/>
+- If the other rulers find out that I told you they will kill me! <br/>
+- It's either them or me. Which do you choose? <br/>
+-oh... Ok, ok. I will tell you. Now listen. Dodgers like you are meant to go back to the realm you came from. You were a good person there probably. Talanted at something. But since
+The Long Forgotten Gods fell we decided not to let anyone come back anymore.<br/>
+-Wait... What? I... I again have more questions than answers. Why and how did I came here? What are these gods? Why you don't allow people to go to this realm? What is happening?<br/>
+-Oh you poor dodger. Look at yourself. Do you remember your body to look like that? ... You are dead dodger...<br/>
+-This... this cannot be. I don't remember anything like that... Now when I think about it... I don't remember anything!<br/>
+-Your memories are lost, dodger. Only your knowledge remains. This is what remains through all the realms you go through.<br/>
+
+Crowd of mixed color beings: -Kavadar! Kavadar! Kavadar!<br/>
+
+Buble'Blu: -I think you will have a company.<br/>
+Kavadar: -I guess so.<br/>
+- Ok good luck... Kavadar. Don't be a stranger!<br/>
+-Hey I thought you will help me... Eh.. whatever... *some big drop of water falls on Kavadar and he receives the blue power from Buble'Blu*<br/>
+
+Buble'Blu leaves and many mixed color beings come to attack Kavadar. Most of them are from colors that he met already, but some of them are like Borwn and Pink.<br/>
+
+### [The crossroad]
+
+After Kavadar defeats or escapes from the crowd he will be on a crossroad. He will be able to choose between two paths. One that leads forward and one that leads seemingly only down. It does not matter which one
+he will choose exactly, because anyway after he does one he will need to do the other as well. Lets say he chooses the path down. After many obsticles, traps and enemies he reaches the deepest area in the doungeon
+There are few puzzels with colors that he does not posses. Eventually he reaches a shaft where he hears a distant voice. <br/>
+
+God Tsal: -Who is there? Is it you again Plum'fe? Didn't you get tired of shaming me for my blunder?<br/>
+Kavadar: -Eh... no. My name is Kavadar. How did you get in there?<br/>
+-Kava...? Kavadar? colored beings should not have names. Are you a new ruler that claimed the powers that once were part of mine?<br/>
+-Well no. I am just trying to find the way out if this place.<br/>
+-The way out? Are you...? Are you a consecrated dodger?<br/>
+-Yeaaas... This is what some creatures here called me.<br/>
+-Oh no! I am literaly the only person in this realm that will help you, believe it or not. But first you need to get me out of here! Only we can help each other.<br/>
+-Ok but how can you help me ?<br/>
+- I know how to defeat the rulers of thy realm! As well as how to bring you back to Terrene.<br/>
+- Terrene... You mean... You know how to bring me back to life ?<br/>
+- Yes! And I will. Just you need to get me out of here!<br/>
+- Ok then, how should I do that?<br/>
+- It will not be easy. You will need to find Empress Ov Pinks - Plum'fe. You need to steal her key to this shaft so I can climb out.<br/>
+- Where can I find her?<br/>
+- *esfe afegv egfer*<br/>
+- What? You are too far away, I can't hear.<br/>
+-* dsfsd refg s sfws*<br/>
+- Ok you know what? I will find her by myself, don't worry. I will be back soon.<br/>
+- Be careful dodger! Don't consume any *safs fse*, because they will *safew* you!<br/>
+- I can't hear you, but ok! I will deal with it.<br/>
+
+[Short story points]:
+Kavadar fights the Brown King, Passes through the Purple biome, Fights the Pink ruler, steals here key but doesn't manage to kill here, goes around the Purple biome but the Purple ruler
+finds meets him anyway and fights him, Kavadar helps the God Tsal get out, he tells him about the story in this realm. Kavadar from there on meets Tsal from time to time in different places or situations
+Kavadar fights the oringe ruler, discovers a bit more for the world, fights again the  pink ruler, defeats her, fights the yellow ruler , defeats her and Depending if he killed more or spared more
+he will either go to the previous world, stay in deathland and become a colored being because of the corruption or betray Tsal and replace him as the new Supreme God. The third option will be a secret ending
 
 
 
@@ -90,6 +171,10 @@ destroyed. After time The Color Beings became greedy and started a war for terit
 The Long Forgotten Gods: They are the gods that created the realm Deathland for the mortals, as well as many other realms. They were the most powerful creatures in the universe
 but long time ago were overthrown by the people of Deathland. They were trapped somewhere deep in Deathland and were never heard of again. This happened so long time ago, that everybody forgot
 their names and just refered to them as The Long Forgotten Gods.<br/>
+
+God Tsal: Tsal have been a part of the original Long Forgotten Gods and participated in the creation of each realm. After he and his like-minded brothers were overthrown he was prisoned with them
+for the next hundred thousends years or so. His brothers refused to stay prisoners and used their last remaining power to convert their phisical bodies into energy and with it cause the territory
+war between the biome rulers. This way there was a new hope that at least Tsal will be able to raise again and bring peace in the final realm. <br/>
 	
 Knight Of Red: Her name is Redéye. She is a villian who rules the Red. Her father was the one who helped in the rebelion against The Long Forgotten Gods and calimed the title as ruler of the Red.
 After his final death Redéye came on the throne as the new ruler. She is powerfull looking with pretty agressive fighting style, mainly with longsword and with shield. Even though her fighting style is fast
@@ -99,6 +184,11 @@ Lord Moss: His name is Radi'lus. He is a villian who rules the Green. He and his
 green biome between each other. In time the brothers grew hungry for more power and started the Green War, which ended with Radi'lus killing all of his brothers and keeping all the green biome for himself.
 His prefered weapons are mace, moss magic and toxic waste. Using his moss powers he can move fast for short periods of time. Generaly his attacks are slow and heavy with lack of precision. Yet his
 furious confidence and agression are visible.<br/>
+
+Semigod Of Blue: His name is Buble'Blu. He is son of Qui'nBlu. A regular female color being, which long ago managed to steal some power from The Long Forgotten Gods while the rebelion and became a ruler
+of the Blue biome. The biome was pretty calm under her leadership untill her final death caused by the god powers she had. Later on Buble'Blu claimed her powers and led the Blue biom into the territory war
+with other nations that continues even today. His prefered weapons are water bubbles, trident, water magic that make you drawn yourself if you move for 5 seconds after it's casted.<br/>
+
 
 
 ### [Locations]
@@ -118,6 +208,10 @@ Government Type: Mixed  <br/>
 Necrosis: This the world between Terrene and Deathland. It is all white and it's used to decide the fate of all dodgers who will continue to Deathland.<br/>
 Native species:  None  <br/>
 Government Type: None  <br/>
+
+Embarkat: This is the place where all life is being created. Creatures appear from there and after each death they go one realm further until they reach Deathland. It's little known that once you die
+in the final realm you go back to Embarkat and start your new cycle again. The only difference is that this time all your memories and knowledge is being wiped out so you can receive fresh start.<br/>
+
 
 
 ### [Additional info]
