@@ -40,9 +40,9 @@ Kavadar continues down the dungeon, soon enough he finds a green object and notc
 In the next part Kavadar meats mostly pizzels, traps and obsticles that include the hurtful green and his red to show to the player the basic color mechanic
 Eventually he starts seeing green enemies and he notices that they seem easier to hurt with his red sword. Soon after Kavadar meets Lord Moss.
 	Radi'lus:	-Aaah. A red being dares crossing my biome? You must be the most brave or the most stupid of all.<br/>
-	Kavadar:	- Is it... forbidden to cross through here?<br/>
-			- Ofcourse it is you fool! Now prepare to be destroyed!<br/>
-			- Oh, here we go again.<br/><br/>
+	Kavadar:	-Is it... forbidden to cross through here?<br/>
+			-Ofcourse it is you fool! Now prepare to be destroyed!<br/>
+			-Oh, here we go again.<br/><br/>
 A fight starts, Kavadar either chooses to kill the Lord Moss [K] or to spare him [S]
 
 [K]	Radi'lus:	-Now I see why you are so powerful. You are a consecrated dodger! You must die! Die! Here and now, die!<br/>
@@ -82,7 +82,7 @@ Kavadar choses to agree[A] or to continue the conversation[C] <br/>
 
 [C] Kavadar: -And why should I trust you? Don't you need to kill me because I am a consecrated one like the other rulers?<br/>
 Buble'Blu:- No... no,no,no. You see dodger I am not like the others. I don't follow the rules of this wreched realm. I like to use a good chance when I see it. You understand?<br/>
-- Ok... May I ask you something?<br/>
+-Ok... May I ask you something?<br/>
 -Sure dodger.<br/>
 -What is your name? <br/>
 -I am Bubble'Blu! The Semigod Of Blue.<br/>
@@ -94,15 +94,15 @@ A fight starts, Kavadar either chooses to kill the Semigod of Blue [K] or to spa
 
 [K] Kavadar: -Your lies are sharper than your trident, Semigod! <br/>
 Buble'Blu: - No! Dodger, listen to me, I can help you! I can help you find the way to Terrene. Just let me be!<br/>
-- Your lies will not be able to hurt anyone anymore! Goodbye, Samigod! <br/>
+-Your lies will not be able to hurt anyone anymore! Goodbye, Samigod! <br/>
 *absorbs the blue power from the semigod*<br/>
 |Player receives something|
 
 [S] Kavadar: -Your lies are sharper than your trident, Semigod! <br/>
 Buble'Blu: - No! Dodger, listen to me, I can help you! I can help you find the way to Terrene. Just let me be!<br/>
-- First tell me what is happening and why everyone tries to kill me ? <br/>
-- If the other rulers find out that I told you they will kill me! <br/>
-- It's either them or me. Which do you choose? <br/>
+-First tell me what is happening and why everyone tries to kill me ? <br/>
+-If the other rulers find out that I told you they will kill me! <br/>
+-It's either them or me. Which do you choose? <br/>
 -oh... Ok, ok. I will tell you. Now listen. Dodgers like you are meant to go back to the realm you came from. You were a good person there probably. Talanted at something. But since
 The Long Forgotten Gods fell we decided not to let anyone come back anymore.<br/>
 -Wait... What? I... I again have more questions than answers. Why and how did I came here? What are these gods? Why you don't allow people to go to this realm? What is happening?<br/>
@@ -114,7 +114,7 @@ Crowd of mixed color beings: -Kavadar! Kavadar! Kavadar!<br/>
 
 Buble'Blu: -I think you will have a company.<br/>
 Kavadar: -I guess so.<br/>
-- Ok good luck... Kavadar. Don't be a stranger!<br/>
+-Ok good luck... Kavadar. Don't be a stranger!<br/>
 -Hey I thought you will help me... Eh.. whatever... *some big drop of water falls on Kavadar and he receives the blue power from Buble'Blu*<br/>
 
 Buble'Blu leaves and many mixed color beings come to attack Kavadar. Most of them are from colors that he met already, but some of them are like Borwn and Pink.<br/>
@@ -133,18 +133,18 @@ Kavadar: -Eh... no. My name is Kavadar. How did you get in there?<br/>
 -Yeaaas... This is what some creatures here called me.<br/>
 -Oh no! I am literaly the only person in this realm that will help you, believe it or not. But first you need to get me out of here! Only we can help each other.<br/>
 -Ok but how can you help me ?<br/>
-- I know how to defeat the rulers of thy realm! As well as how to bring you back to Terrene.<br/>
-- Terrene... You mean... You know how to bring me back to life ?<br/>
-- Yes! And I will. Just you need to get me out of here!<br/>
-- Ok then, how should I do that?<br/>
-- It will not be easy. You will need to find Empress Ov Pinks - Plum'fe. You need to steal her key to this shaft so I can climb out.<br/>
-- Where can I find her?<br/>
-- *esfe afegv egfer*<br/>
-- What? You are too far away, I can't hear.<br/>
+-I know how to defeat the rulers of thy realm! As well as how to bring you back to Terrene.<br/>
+-Terrene... You mean... You know how to bring me back to life ?<br/>
+-Yes! And I will. Just you need to get me out of here!<br/>
+-Ok then, how should I do that?<br/>
+-It will not be easy. You will need to find Empress Ov Pinks - Plum'fe. You need to steal her key to this shaft so I can climb out.<br/>
+-Where can I find her?<br/>
+-*esfe afegv egfer*<br/>
+-What? You are too far away, I can't hear.<br/>
 -* dsfsd refg s sfws*<br/>
-- Ok you know what? I will find her by myself, don't worry. I will be back soon.<br/>
-- Be careful dodger! Don't consume any *safs fse*, because they will *safew* you!<br/>
-- I can't hear you, but ok! I will deal with it.<br/>
+-Ok you know what? I will find her by myself, don't worry. I will be back soon.<br/>
+-Be careful dodger! Don't consume any *safs fse*, because they will *safew* you!<br/>
+-I can't hear you, but ok! I will deal with it.<br/>
 
 [Short story points]:
 Kavadar fights the Brown King, Passes through the Purple biome, Fights the Pink ruler, steals here key but doesn't manage to kill here, goes around the Purple biome but the Purple ruler
