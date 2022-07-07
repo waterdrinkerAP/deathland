@@ -1,39 +1,67 @@
 # MAIN STORY
 *************
-	
+
 ### [The red ones]
-A bright floating ball  appears out from a pure white room. This bright ball is Kavadar. He does not know what is happening yet. The only thing he knows is that he must continue 
-further out of the while room. Kavadar goes through short tutorial of the basic movements. Kavadar meets his first enemy and learns how to hit them with a basic attack. Kavadar keeps
-killing some enemies on his way further. While that he is introduced to verdure 1) potions (that he will be finding from time to time throughout the game).Eventually he faces an enemy
-that is holding some unique red sword. Kavadar kills him and receives the sword. He receives as well a body. He discovers that with that body he is way stronger. Kavadar continues to 
-go deeper in this what looks like a dungeon, solving puzzels, going through obsticles and dealing with enemies. After some time he reaches an old stone sign that says:
-"If life is what you seek you shall fear not keep. Deep ahead life awaits behind Deathland's heavy gates "
-Kavadar: -Deathland? Life? Hmm... I wonder what this riddle means...
-	Later Kavadar meets the Knight Of Red. The ruler of everything red.
-Redéye: - Who dares to disturb my peace? 
-Kavadar: -... I am... I am aah... *remembers that he don't know his own name* ...*tries to think of something* ... My name is Kav... Kad... Kavadar! Yes! My name is Kavadar <br/>
+
+A bright floating ball appears out from a pure white room. This bright ball is 
+Kavadar. He does not know what is happening yet. The only thing he knows is 
+that he must continue further out of the white room. Kavadar goes through a 
+short tutorial of the basic movements. Kavadar meets his first enemy and learns 
+how to hit them with a basic attack. Kavadar keeps killing more enemies on his 
+way. During that time he is introduced to verdure 1) potions (that he will be 
+finding from time to time throughout the game). Eventually he faces an enemy 
+that is holding a unique-looking red sword. Kavadar kills him and receives the 
+sword. He also receives a body. He discovers that with that body he is way 
+stronger. Kavadar continues to go deeper in what looks like a dungeon, solving 
+puzzels, going through obsticles and dealing with enemies. After some time he 
+reaches an old stone sign that says:<br/>
+"If life is what you seek you shall fear not keep. Deep ahead life awaits 
+behind Deathland's heavy gates"<br/>
+Kavadar:<br/>
+    -Deathland? Life? Hmm... I wonder what this riddle means...<br/>
+Later Kavadar meets the Knight Of Red. The ruler of everything red.<br/>
+Redéye:<br/>
+    - Who dares to disturb my peace?<br/>
+Kavadar:<br/>
+    -... I am... I am aah... *remembers that he don't know his own name* 
+    ...*tries to think of something*... My name is Kav... Kad... Kavadar! Yes!
+    My name is Kavadar<br/>
 	- And who do you think you are Kavadar? Holding so nonchalantly my sword?<br/>
 	- I don't know. I... I just found it on the way here. I don't even...<br/>
-	- And who killed all of my guardians ?<br/>
-	- I.. but they...
-	- So you are the one who killed so many of my people ah? Ok, this is the final end of you!<br/>
+	- And who killed all of my guardians?<br/>
+	- I.. but they...<br/>
+	- So you are the one who killed so many of my people ah? Ok, this is the 
+	final end of you!<br/>
 	- The final... end? What do you mean?<br/><br/>
-A fight starts, Kavadar either chooses to kill the Knight of Red [K] or to spare her [S]
 
-[K]	Kavadar:	- You and your people will no longer threaten the travelers passing through here!<br/>
-	Redéye:		- You will pay for this! Remember my word! You will pay!<br/>
+A fight starts, Kavadar either chooses to kill the Knight of Red [K] or to 
+spare her [S]
 
-|Nothing happens|
+[K]<br/>
+Kavadar:
+    - You and your people will no longer threaten the travelers passing through
+    here!<br/>
+Redéye:
+    - You will pay for this! Remember my word! You will pay!<br/>
 
-[S]	Kavadar:	- Here is your sword. Just let me be, ok ?<br/>
-	Redéye:		- *catches her breath* Keep it. You weld it good.<br/>
-			- Thank you then. I didn't catch your name.<br/>
-			- It's Redéye... Tell me Kavadar. Why are you really here? You are not a standart dodger.	2) <br/>
-			- I don't really know. I don't even know where I am coming from.<br/>
-			- Ah, you are one of them. One of the consecrated ones. I should kill you right here and now. But since you spared my life I will spare your as well. 3) <br/>
-			- Wait I don't understand really what do you mean?<br/>
-			- You will find out soon enough. I wish you best of luck! You will need it, Kavadar! - Goes away.<br/>
-|Mana regen goes faster|
+Result: Nothing happens
+
+[S]<br/>
+Kavadar:<br/>
+    - Here is your sword. Just let me be, ok?<br/>
+Redéye:<br/>
+    - *catches her breath* Keep it. You weld it good.<br/>
+    - Thank you then. I didn't catch your name.<br/>
+    - It's Redéye... Tell me Kavadar. Why are you really here? You are not a 
+    standart dodger.	2) <br/>
+    - I don't really know. I don't even know where I am coming from.<br/>
+    - Ah, you are one of them. One of the consecrated ones. I should kill you 
+    right here and now. But since you spared my life I will spare yours as well. 3) <br/>
+    - Wait I don't understand really. What do you mean?<br/>
+    - You will find out soon enough. I wish you best of luck! You will need it, 
+    Kavadar! - Goes away.<br/>
+
+Result: Mana regen goes faster
 
 ### [The green ones]
 Kavadar continues down the dungeon, soon enough he finds a green object and notces that if he touches it he gets hurt.
