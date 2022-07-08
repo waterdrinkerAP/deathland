@@ -65,7 +65,7 @@ Result: Mana regen goes faster
 
 ### [The green ones]
 Kavadar continues down the dungeon, soon enough he finds a green object and notces that if he touches it he gets hurt.
-In the next part Kavadar meats mostly pizzels, traps and obsticles that include the hurtful green and his red to show to the player the basic color mechanic
+In the next part Kavadar meats mostly puzzels, traps and obsticles that include the hurtful green and his red to show to the player the basic color mechanic
 Eventually he starts seeing green enemies and he notices that they seem easier to hurt with his red sword. Soon after Kavadar meets Lord Moss.
 	Radi'lus:	-Aaah. A red being dares crossing my biome? You must be the most brave or the most stupid of all.<br/>
 	Kavadar:	-Is it... forbidden to cross through here?<br/>
@@ -145,7 +145,7 @@ Kavadar: -I guess so.<br/>
 -Ok good luck... Kavadar. Don't be a stranger!<br/>
 -Hey I thought you will help me... Eh.. whatever... *some big drop of water falls on Kavadar and he receives the blue power from Buble'Blu*<br/>
 
-Buble'Blu leaves and many mixed color beings come to attack Kavadar. Most of them are from colors that he met already, but some of them are like Borwn and Pink.<br/>
+Buble'Blu leaves and many mixed color beings come to attack Kavadar. Most of them are from colors that he met already, but some of them are like Brown and Pink.<br/>
 
 ### [The crossroad]
 
@@ -174,9 +174,84 @@ Kavadar: -Eh... no. My name is Kavadar. How did you get in there?<br/>
 -Be careful dodger! Don't consume any *safs fse*, because they will *safew* you!<br/>
 -I can't hear you, but ok! I will deal with it.<br/>
 
+### [The brown ones]<br/>
+Kavadar continues on his way. He passes through the Brown biome where he meets the Brown King. Brown King raises out from the mud in front of Kavadar and starts the conversation:<br/>
+
+Mudmor'g: <br/>
+-Ah, Kavadar! The consecrated one! The kingslayer! The murderer of all colored beings! They warned me that you could come for me. So I prepared<br/>
+Kavadar:<br/>
+-I did not come to fight you, but if you stand in my way I will not have any other choise!<br/>
+-Oh, brave, aren't we? Bring it in consecrated one!<br/>
+
+A fight starts, Kavadar either chooses to kill Mudmor'g [K] or to spare him [S] <br/>
+
+[K]<br/>
+Kavadar:<br/>
+-You muddy coward! I will end you!<br/>
+
+Mudmor'g:<br/>
+-You will sorry for what you did dodger!<br/>
+-I don't think so! <br/>
+*kills Mudmor'g and absorb his power*<br/>"
+|Some negative effect|<br/>
+
+[S]<br/>
+Kavadar:<br/>
+-You are such a coward. <br/>
+Mudmor'g:<br/>
+-You can't blame me for wanting to save my finall live.<br/>
+-Huh... I guess so mudball. How do you even know if there is no other live after this one as well?<br/>
+-Huh? Hahaha... Dodger, I am thousands of years older than you. I witnessed the Old Forgotten Gods when they were still glorious. They themselves, the creators of everything told
+us that there is nothing after this life! You can't make me throw my live away as easy as you think.<br/>
+-I am not trying to. Whatever. I will be going on my way.<br/>
+-Is that so? I think you are forgetting something.<br/>
+-Really? What?<br/>
+*Borwn King powers up Kavadar with his brown power and runs away*<br/>
+Kavadar:<br/>
+-What? What was this for? Oh... well I guess such powers are always welcome... But I am really starting to get suspicious.<br/>
+|Kavadar gets some possitive effect|
+
+###[The Pink ones]<br/>
+Kavadar enters the Pink biome, again the usual with levels and stuff. At some point he enters a big empty room. Sudenly he hears a voice fro somewhere:<br/>
+Plum'fe:<br/>
+-So the old man have sent a consecrated dodger after me?<br/>
+Kavadar:<br/>
+-You must be Plum'fe. Where are you hiding?<br/>
+-Do you really think that you will manage to defeat me, dodger? I am not like the rulers you met, dodger. <br/>
+-Show yourself you shadow!<br/>
+-And what will you do if I do so? You are so weak that I can kill you without even rising my hand.<br/>
+-That's enough! Stop toying with me!<br/>
+-As you wish... Kavadar.<br/>
+*the whole air starts to become pink, Kavadar chooses to become [A]Blue or to become [C]Red*<br/>
+
+[A]<br/>
+Kavadar becomes Blue, because of his shape he does not breathe the pink air, because of the water mask he have.<br/>
+|battle begins with Kavadar having full health|<br/>
+
+[C]<br/>
+Kavadar becomes Red, but this achives nothing.<br/>
+|battle begins with Kavadar having half health|<br/>
+In this boss battle the boss will use the pink air from time to tie
+
+Kavadar manages to defeat the Empress Ov Pinks but she have more than enough strenght to escape.<br/>
+Plum'fe:<br/>
+-We will meet again Kavadar! The next time you will not be as lucky as today!<br/>
+*Empress Ov Pinks goes away but drops the key for Tsal's prison, so Kavadar picks it up*<br/>
+-I don't worry empress. The next time I will be more powerful as well!<br/>
+
+Kavadar goes back trough another way because the way he came from is blocked.<br/>
+
+###[Free god]<br/>
+....................
+
+
+*finish this way and make the case if you first go somewhere else
+add this phrase: Don't search for logic where there magic is\
+
+task for me: add "<br/>" everywhere col > 120 also add "<br/>" after the name of each character speaking  
+
 [Short story points]:
-Kavadar fights the Brown King, Passes through the Purple biome, Fights the Pink ruler, steals here key but doesn't manage to kill here, goes around the Purple biome but the Purple ruler
-finds meets him anyway and fights him, Kavadar helps the God Tsal get out, he tells him about the story in this realm. Kavadar from there on meets Tsal from time to time in different places or situations
+Kavadar helps the God Tsal get out, he tells him about the story in this realm. Kavadar from there on meets Tsal from time to time in different places or situations
 Kavadar fights the oringe ruler, discovers a bit more for the world, fights again the  pink ruler, defeats her, fights the yellow ruler , defeats her and Depending if he killed more or spared more
 he will either go to the previous world, stay in deathland and become a colored being because of the corruption or betray Tsal and replace him as the new Supreme God. The third option will be a secret ending
 
@@ -217,6 +292,13 @@ Semigod Of Blue: His name is Buble'Blu. He is son of Qui'nBlu. A regular female 
 of the Blue biome. The biome was pretty calm under her leadership untill her final death caused by the god powers she had. Later on Buble'Blu claimed her powers and led the Blue biom into the territory war
 with other nations that continues even today. His prefered weapons are water bubbles, trident, water magic that make you drawn yourself if you move for 5 seconds after it's casted.<br/>
 
+Brown King: His name is Mudmor'g. He is one of the ancient rulers, which fought against the Long Forgotten Gods and ruled eversince. In that timme Mudmor'g took down several rebelions against his
+leadership and fought in many civil wars. He is wise, vengefull and have became really powerful over the years.His prefered weapons are the mudbombs and sandhamers.<br/>
+
+Empress Ov Pinks: Her name is Plum'fe. She is one of the ancient rulers, which actually started the rebelion against the Long Forgotten Gods. She is responsible for prisoning the as well. Since she was
+so proud of her deed she often went to torture and play with the gods. She was the only one who knew where they were, asuring herself that no one can ever help them. Plum'fe is beautiful and cruel,
+she can manipulate colored beings that are on lower level than hers. Her favorite weapons are spear-lollypop, sharp candies and pink magic.<br/>
+
 
 
 ### [Locations]
@@ -239,11 +321,13 @@ Government Type: None  <br/>
 
 Embarkat: This is the place where all life is being created. Creatures appear from there and after each death they go one realm further until they reach Deathland. It's little known that once you die
 in the final realm you go back to Embarkat and start your new cycle again. The only difference is that this time all your memories and knowledge is being wiped out so you can receive fresh start.<br/>
+Native species:  Unknown  <br/>
+Government Type: Unknown  <br/>
 
 
 
 ### [Additional info]
-Color powers: They give different powers to the one who poseses them and help them grow stronger. However they can easily corrupt the dodger who is using them, and make him a regular color being
+Color powers: They give different powers to the one who poseses them and help them grow stronger. However they can easily corrupt the dodger who is using them, and make him a regular color being or simply kill him
 Verdure potions: They regenerate health.
 
 
