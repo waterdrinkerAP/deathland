@@ -51,8 +51,8 @@ A fight starts, Kavadar either chooses to kill the Lord Moss [K] or to spare him
 
 [S]	Radi'lus:	- Now I see why you are so powerful. You are a consecrated dodger! You must die! Die! Here and now, die!<br/>
 	Kavadar: 	- Yeah? And what is this thing consecrated dogder? Why everyone hates this thing?<br/>
-- Oh no, no ,no,no. You are chosen! Chosen by the Necrosis to go back to the prevous realm! We should stop you!<br/>
-- What? Wait, what is the Necrosis, what prevous realm?<br/>
+-Oh no, no ,no,no. You are chosen! Chosen by the Necrosis to go back to the prevous realm! We should stop you!<br/>
+-What? Wait, what is the Necrosis, what prevous realm?<br/>
 			- You really don't know ah?<br/>
 			- Obviously.<br/>
 			- Well I will not tell you.<br/>
@@ -213,24 +213,107 @@ Plum'fe:<br/>
 
 Kavadar goes back trough another way because the way he came from is blocked.<br/>
 
-###[Free god]<br/>
-....................
+### [Free god]<br/> 
 
+Kavadar reaches again the place where God Tsal was prisoned.
+-Hey Tsal, Tsal it's me, Kavadar. I got the key!
+-Kavadar? Oh, that is really good. Hurrt now, open the shaft.
+*Kavadar opens the shaft with the key*
+Tsal crows out to reveal his look. He looks really unnatural for this
+demention. <br/> (Dido suggesting here :D : I was thinking maybe to look black,
+scary tall, creepy and evil, something like that as a contrast his good personality. Or maybe to be white and to look like a flying body part, idk something strange you know ? :D Anyway I guess we will leave this for further discution later.)<br/>
+Kavadar:<br/>
+-...<br/>
+-So Kavadar. Let's get you back to your realm.
+*Kavadar smiles while looking at Tsal and Tsal does the same*
+-Sooo... Won't you send me back with your god powers or something?
+-Ah? What? No, I can't do that anyway. I never could. You need to help me
+take back my control over this real and then I will bring you to the gates
+of Deathland. They will bring you back.
+-Oh man... But how? What kind of god are you?
+-You see Kavadar, we were more before. I had 12 more brothers long ago.
+Each of us had different powers, all weak by themselves. But when combined together we were unstopable. We together created the 5 realms and everything living and existing in them. We created the dodgers as well. Since our favorite realm was Terrene, we wanted to improve it as much as possible. The problem was that only the dodgers could do that. So we reorganised the realms in a such way
+that they allow only to the dodgers which improved somehow Terrene to be able to come back there and continue making that world better. Yes but the nations of Deathland did not like that. They also wanted to go to Terrene. And since their phisical form in Deathland did not allow them  to pass the gate to Terrene they decided not to allow anyone ever go back there ever again. This was after our fall.<br/>
+-And where are your brothers in fact? Locked somewhere else perhaps?<br/>
+-I am afraid not. Using their final powers they transformed their phisical bodies as energy, so they could manipulate the rulers, that took our place, and make them start a  meaningless war that still continues. They hoped that this way some of them will decide to free me and use me as their advantage, but... they were wrong. Everything became even worse since then. Before consecrated dodgers could sneak around the rulers, but now this seems impossible. The rulerses military setting allows them to locate and destroy each consecrated dodger. It's a really big luck that you are still alive.<br/>
+-Probably is luck as well that I managed to defeat some rulers and get some of their power. <br/>
+-About this... How did you manage in fact? Youd did not have a body when you came here.<br/>
+-I don't know. I picked up a sword that turned out to be property of the Knight of Red. Perhaps that gave me body.
+-Hm... Redéye have became careless. Listen, there is one really important thing that I want to tell you about these powers.  I tried to tell you the previous time but you couldn't hear me. <br/>
+-What is it ?<br/>
+-You need to be careful what you... Kavadar, look out, colored beings, they found us. Run dodger, I will meet you later. <br/>
+God Tsal shadow slips (like Agu from samourai jack xD) and runs away.<br/>
+Kavadar fights with the colored beings and continues on his way.<br/>
+Again puzzels, mazes, obsticles and so on until he reaches the  orange biome.<br/>
 
-*finish this way and make the case if you first go somewhere else
-add this phrase: Don't search for logic where there magic is\
+### [The orange ones]
+Kavadar goes throughout the level and meets the orange ruler.<br/>
+On the way he finds a new sign, that seemingly looks newer that the previous ones, that says:<br/>
+"To color belive not, to shape neither<br/>We are all to go, all to wither<br/>Thy war emrased my fear<br/>As I die distrustful here"<br/>
+-I guess that war is really breaking people down. Good that soon all will be over. <br/>
+Kavadar sees that the orange ruler is in something like big chamber and he needs to go thorough some obsticles to go around to reach him.<br/>
+The Cantaloupe Bishop: -Ah the simple dodger, that tries to go back to his realm.You came here to help the old excuse of god claim his throne again by killing me?<br/>
+-What ? How do you know about Tsal? <br/>
+-I know everything dodger, don't be silly. Now come here and let's be over with it!<br/>
+Kavadar goes thorugh the boss level to reach The Cantaloupe Bishop.  While that Cantaloupe Bishop yells stuff to him like:<br/>
+"You will never manage to kill me!", "Your chances to defeat me are less than 0","You are walking towards your final death","I know every move that you can think of, I can predict each of your steps" and so on <br/>
+Kavadar goes to the Cantaloupe Bishop and slaps his ass. Now he chooses either to kill [K] or to spare[S] the bishop.<br/>
+
+[K]<br/>
+Kavadar: -You knew I will defeat you. Why you did not escape?<br/>
+Bishop: -You can't escape from your destiny. I am more calm than ever now, knowing that I reached mine.<br/>
+*Kavadar kills him and absorbs his power*<br/>
+Tsal comes in the room runing.<br/>
+Tsal: -Kavadar! Kavadar, what did you do? Why did you kill him?<br/>
+-He was our enemy Tsal, he could stay in our way.<br/>
+-No, not about that, you ignorant dodger! This was the important thing that I wanted to tell you about these powers! Every time you kill a ruler you gain their powers.<br/>
+-And what? Isn't this good?<br/>
+-No, you fool! Your phisical form can't handle that much power, you are not a god to do so. The powers will corrupt you over time and will make you a regular colored being! Then the powers will leave you and go in the closest god, which is me. Further more these powers react to your actions. If you do evil with them they will corrupt you faster, if you do good the corruption will be reduced for a short period of time. Tell me dodger, how many rulers did you kill till now?<br/>
+-Well...<br/>
+-Oh no! This is really, really bad! <br/>
+-Well look, I didn't kill Plum'fe and...<br/>
+-We need to hurry, Kavadar! You don't have much time. Go further to the Pink biome. You need to defeat Plum'fe there. Please try not to kill her Kavadar, it's for your own good.<br/>
+-Ok Tsal. <br/>
+|negative thing happens|<br/>
+
+[S]<br/>
+Kavadar: -You knew I will defeat you. Why you did not escape?<br/>
+Bishop: -You can't escape from your destiny. I am more calm than ever now, knowing that I reached mine.<br/>
+-Well no. You were wrong this time. Everyone chooses his destiny.<br/>
+-Maybe you are right dodger. Maybe we really choose our own destiny.<br/>
+*the bishop stabs himself on Kavadar's sword*<br/>
+Bishop: -I am always right, you fool! <br/>
+Kavadar: -No, why to do this? Tell me why?<br/>
+*Kavadar absorbs the orange power*<br/>
+Tsal comes in the room runing.<br/>
+Tsal: -Kavadar! Kavadar, what did you do? Why did you kill him?<br/>
+-I did not... I.. I....<br/>
+-You ignorant dodger! This was the important thing that I wanted to tell you about these powers! Every time you kill a ruler you gain their powers.<br/>
+-And what now? <br/>
+-Well, your phisical form can't handle that much power, you are not a god to do so. The powers will corrupt you over time and will make you a regular colored being! Then the powers will leave you and go in the closest god, which is me. Further more these powers react to your actions. If you do evil with them they will corrupt you faster, if you do good the corruption will be reduced for a short period of time. Tell me dodger, how many rulers did you kill till now?<br/>
+-Well...<br/>
+-Oh no! This is really, really bad! <br/>
+-Well look, I didn't kill Plum'fe and...<br/>
+-We need to hurry, Kavadar! You don't have much time. Go further to the Pink biome. You need to defeat Plum'fe there. Please try not to kill her Kavadar, it's for your own good.<br/>
+-Ok Tsal. <br/>
+|Receives a good but not too good trait|
+
+Kavadar goes to the pink biom<br/>
+
+### [The Pink ones part two]
+........
 
 task for me: add "<br/>" everywhere col > 120 also add "<br/>" after the name of each character speaking  
 
 [Short story points]:
-Kavadar helps the God Tsal get out, he tells him about the story in this realm. Kavadar from there on meets Tsal from time to time in different places or situations
-Kavadar fights the oringe ruler, discovers a bit more for the world, fights again the  pink ruler, defeats her, fights the yellow ruler , defeats her and Depending if he killed more or spared more
+ Kavadar from there on meets Tsal from time to time in different places or situations
+Fights again the pink ruler, defeats her (he meets Tsal there again and if he kills her he tells that he didn't have other choice, if he spares her Tsal greets him for the good deed), goes to yellow biome, meets and talks to Tsal before the boss, fights the yellow ruler (the fight with the yellow ruler can be like standart boss fight, but then there will be a part where the ruler combines themselves with the yellow biome and becomes a level himselfe, where you need to go through and hurt them somewhere so they can become normal and you fight them again and then already choose to kill them or not), defeats her and Depending if he killed more or spared more
 he will either go to the previous world, stay in deathland and become a colored being because of the corruption or betray Tsal and replace him as the new Supreme God. The third option will be a secret ending
 
 
 
 # GAME LORE
-************
+****
 
 ### [Characters]
 Kavadar: A person that died in the realm of the living, aka Earth and came in the world of the dead without having any idea who he is, where he is and what happened. His goal
@@ -271,6 +354,12 @@ Empress Ov Pinks: Her name is Plum'fe. She is one of the ancient rulers, which a
 so proud of her deed she often went to torture and play with the gods. She was the only one who knew where they were, asuring herself that no one can ever help them. Plum'fe is beautiful and cruel,
 she can manipulate colored beings that are on lower level than hers. Her favorite weapons are spear-lollypop, sharp candies and pink magic.<br/>
 
+Lord Maulve: His name is Lilac Maulve, grandson of Periwinkle Maulve, the leader of the Purple rebelion. He helped for defeating the gods and became the ruler of the Purple biome. The title Lord Maulve passed over the generations down to Lilac. He is unexperienced but confident leader. His fightstyle includes dark magic, shadow attacks and low visibility. His prefered weapon is his staff. He can call his minions more often at any time as well.<br/>
+
+The Cantaloupe Bishop: His name is Apricot. He led the oringe beings in the rebelion against the gods. After he stole a part of their powers he received the ultimate knowledge about technology and science. Since then he led his biome into big technological advancement in which he succeeded. His biome is the most coplex and well defended from all other. His prefered weapon is a lazer gun. He likes to use tech electric traps and lightnings as well.<br/>
+
+The Yellow Devine: They are a couple named Amber(female) and Xanthous(male). They were just normal colroed beings before the rebelion. Xanthous joined the rebelion and managed to steal the power from the gods under the nouse of his leader. After that he shared it with Amber they became rulers of the Yellow biome. It turned out that because Xanthous shared his power with Amber they were way more powerful than the other rulers. When they found out this they shared a sall part of their power with everyone and everything in the biome. That increased their stability and multiplied theyr power many times. They always stay toghether, because this makes them stronger, they fight using the most ultimate god-like powers. They can make any wepaon appear in their hands whenever they want. Their final state is all the creatures of the yellow biom combined in gigantinc titan.<br/>
+
 
 
 ### [Locations]
@@ -291,20 +380,24 @@ Necrosis: This the world between Terrene and Deathland. It is all white and it's
 Native species:  None  <br/>
 Government Type: None  <br/>
 
-Embarkat: This is the place where all life is being created. Creatures appear from there and after each death they go one realm further until they reach Deathland. It's little known that once you die
+Embarkat: This is the place where all life is being created. Creatures appear from there and live as semigods in peace There they have everything they need. Humans from Terrene refer to this place as Valhalla, Heaven and many more.   However death also is a thing in Ebarkat. There you can die simply because of negative emotion. It's unknow why the Long Forgotten Gods made it this way. Once you die in Embarkat you go to The Null, where you are getting perapred for the next realms. After each death they you one realm further until you reach Deathland. It's little known that once you die
 in the final realm you go back to Embarkat and start your new cycle again. The only difference is that this time all your memories and knowledge is being wiped out so you can receive fresh start.<br/>
 Native species:  Unknown  <br/>
 Government Type: Unknown  <br/>
+
+The Null: This realm is the place that works as reprogramming space. You stay there for an endless period of time,existing and not existing at the same time. This wipes out almost all of your memories about Embarkat, but leaves only your knowledge. The Null programs your soul to do the same after each death but faster. Once you are ready you get transported to Terrene.<br/>
+Native species: None <br/>
+Goverment Type: None <br/>
 
 
 
 ### [Additional info]
 Color powers: They give different powers to the one who poseses them and help them grow stronger. However they can easily corrupt the dodger who is using them, and make him a regular color being or simply kill him
-Verdure potions: They regenerate health.
+Verdure potions: They regenerate health.<br/>
 
 
 ## GAME DICTIONARY
 - - - -
-1) Verdure: equivalent of health
-2) Dodger: the equivalent of a soul in this realm
-3) Consecrated: blessed/chosen
+1\) Verdure: equivalent of health <br/>
+2\) Dodger: the equivalent of a soul in this realm<br/>
+3\) Consecrated: blessed/chosen<br/>
