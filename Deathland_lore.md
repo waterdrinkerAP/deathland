@@ -189,7 +189,7 @@ Plum'fe:<br/>
 -So the old man have sent a consecrated dodger after me?<br/>
 Kavadar:<br/>
 -You must be Plum'fe. Where are you hiding?<br/>
--Do you really think that you will manage to defeat me, dodger? I am not like the rulers you met, dodger. <br/>
+-Do you really think that you will manage to defeat me, dodger? I am not like the rulers you met. <br/>
 -Show yourself you shadow!<br/>
 -And what will you do if I do so? You are so weak that I can kill you without even rising my hand.<br/>
 -That's enough! Stop toying with me!<br/>
@@ -301,15 +301,187 @@ Tsal: -Kavadar! Kavadar, what did you do? Why did you kill him?<br/>
 Kavadar goes to the pink biom<br/>
 
 ### [The Pink ones part two]
-........
+Kavadar enters the pink biom, noticing that now there are not only pink colored creatures but many others. He sees even such that he never met  before like yellow. But most of the beings there surprisingly are purple.<br/>
+He reaches the Plum'fe's chember and sees that she is with her back towards him doing something.<br/>
+Kavadar:<br/>
+-Plum'fe! <br/>
+Plum'fe:<br/>
+-Consecrated one. Are you ready to face your destiny?<br/>
+-Bring it on empress!<br/>
+At this moment many colored beings come to kill Kavadar, he jumps around and fights them, after a while he barely manages to kill them.<br/>
+Kavadar:<br/>
+-Face me Plum'fe! Do you fear my power that much?<br/>
+Plum'fe gets angry and decides to join the battle.<br/>
+Kavadar defeats her, even though the battle is really hard with more stages and even places where Kavadar needs more to run around than to fight her. In the end he again chooses either to kill [K] or spare [S] her.<br/>
 
-task for me: add "<br/>" everywhere col > 120 also add "<br/>" after the name of each character speaking  
+[K]<br/>
+Kavadar:<br/>
+-I think you overestemated your power empress.
+Plum'fe:<br/>
+-I might have, but my death does not mean that you will reach your goal dodger! Soon or later you will meet the Yellow Devine. They will be the end of you, because my power was just a little fraction of their. You will never manage to defeat them.<br/>
+-There is only one way to find out if this is true.<br/>
+*Kavadar kills Plum'fe and takes her power*
+Tsal again comes from somewhere.<br/>
+Tsal:<br/>
+-Kavadar! Did you not understand what I told you? Why did you need to kill her? We could imprison her.<br/>
+-I understand your thirst of revenge Tsal, but she was too dangerous!<br/>
+-It is not revenge you fool. You are really... eh... You really disapoint me dodger. Keep going. Your time is running out.<br/>
+Kavadar doesn't say anything and just moves on.<br/>
+|negative effect|<br/>
 
-[Short story points]:
- Kavadar from there on meets Tsal from time to time in different places or situations
-Fights again the pink ruler, defeats her (he meets Tsal there again and if he kills her he tells that he didn't have other choice, if he spares her Tsal greets him for the good deed), goes to yellow biome, meets and talks to Tsal before the boss, fights the yellow ruler (the fight with the yellow ruler can be like standart boss fight, but then there will be a part where the ruler combines themselves with the yellow biome and becomes a level himselfe, where you need to go through and hurt them somewhere so they can become normal and you fight them again and then already choose to kill them or not), defeats her and Depending if he killed more or spared more
-he will either go to the previous world, stay in deathland and become a colored being because of the corruption or betray Tsal and replace him as the new Supreme God. The third option will be a secret ending
+[S]<br/>
+Kavadar:<br/>
+-I think you overestemated your power empress.
+Plum'fe:<br/>
+-I might have, but my death does not mean that you will reach your goal dodger! Soon or later you will meet the Yellow Devine. They will be the end of you, because my power was just a little fraction of their. You will never manage to defeat them.<br/>
+-There is only one way to find out if this is true... Prepare yourself to...<br/>
+-Do as you must.<br/>
+Tsal again comes from somewhere.<br/>
+Tsal:<br/>
+-Kavadar, no! Don't kill her, did you forgot what I told you?<br/>
+-You... you are right. Take her Tsal. She is not my responsibility.<br/>
+-Ok empress. It's time for you and me to have a little talk together.<br/>
+-No! No!.  *Plum'fe tries to escape*
+Tsal takes small portion of her power and gives it to Kavadar.
+-Here this shout be just enough to help you on the way and not need corrupt you as well. Now hurry. You don't have a lot of time.<br/>
+-Sure, later Tsal.<br/>
+|Positive effect|<br/>
 
+### [The purple ones]
+Kavadar enters the purple biom , levels, enemies, obsticles puzels and so on<br/>
+He reaches Lord Maulve and aproaches him.
+Maulve:<br/>
+-Kavadar, Kavadar, Kavadar. Kavadar here, Kavadar there, Kavadar everywhere.<br/>
+Kavadar:<br/>
+-You... know my name?<br/>
+-You took over almost the whole Deathland and stole the powers of all my rivals. And of course I know what you will try to do next.<br/>
+-Then prepare yourself.<br/>
+The fight begins, Lord Maulve rely mostly on his minions. Eventualy Kavadar defeats everyone.<br/>
+-No! I will not end up like the others. You will not take my power!<br/>
+Kavadar chases Mauilve through out most of the biom and reaches him again.<br/>
+-Stop being a coward!<br/>
+The next stage of the fight starts. At the end of the stage Maulve uses his dark magic to grow big and eat Kavadar. The final stage is inside Maulve's stoach. There is like a dinamic level that always changes, toxic juces fall all around, purple creatures appear and attack Kavadar. There he tries to reach one spot in the stomach that he must damage enough so Maulve can give up. Every time Kavadar hits that spot tha platform falls and he needs to go up again fro the  bottom.
+Once Kavadat damages this spot the spell breaks and the giant body of Maulve disolves and frees Kavadar. Then Kavadar chooses either to kill [K] or spare [S] Maulve.<br/>
+
+[K]<br/>
+Kavadar:<br/>
+-You run like a coward, you fight like a coward and now you die like a coward!<br/>
+*Kills Lord Maulve without even giving him a chance to answer and absorbs his power*<br/>
+Kavadar hears Tsal's voice from somewhere but does not see him<br/>
+-Kavadar, once you get corrupted I will not be able to help you! Be really careful dodger.<br/>
+Kavadar looks around. Then once he got he will not be able to see Tsal anywhere he moved on his way.<br/>
+|negative effect|<br/>
+
+[S]<br/>
+Kavadar:<br/>
+-You run like a coward, you fight like a coward and you get defeated like a coward.<br/>
+Maulve:<br/>
+-Don't... don't take my powers, please, they have beein in my family from generations!
+-Worry not. I will not take your powers. God Tsal will. I will take just a bit.<br/>
+-No! No, no no, please!<br/>
+*Kavadar takes some of Maulve's power*<br/>
+-Say hi to Tsal from me. *Kavadar leavs Maulve alone*<br/>
+
+### [The yellow ones]
+Just before Kavadar can enter in the yellow biom Tsal comes to him.<br/>
+Tsal:<br/>
+-I want to warn you Kavadar. All the beings in this biom have powers.<br/>
+Kavadar:<br/>
+-What? All of them have god powers?<br/>
+-Well not exactly. Amber and Xanthous, the so called Yellow Devine have discovered that if they willingly share even a small peace of their power with other beings, they will increase their own power by a lot. Xanthous was the first and only biom ruler that decided to share his power with the one he loves. This made him and his fiancé the most powerful rulers with the most powerful people in the whole realm.<br/> 
+-I understand. I will be careful, Tsal!<br/>
+-Good luck, Kavadar. All the realms rely on you.<br/>
+
+Kavadar enters the yellow biom, puzzels, obsticles and stuff.<br/>
+At the end he reaches the castle of The Yellow Devine. He goes there and
+after some maze wondering he reaches the Yello Devine.<br/>
+*the Yellow Devine talking in one voice*<br/>
+-Kavadar the consecrated one! You finally came to us.<br/>
+-Yes and I am ready to defeat you the same way I defeated all before you.
+-Hahahahaha. You are really foolish Kavadar! We are hundred times stronger than anyone you met before. You can't defeat us even with all the power of the Old Forgotten Gods!<br/>
+-Well... I don't know about their whole power. But I have just enough to make sure you both won't be able to move after our battle!<br/>
+*the yellow devine gets engry*<br/>
+-Die you little bug!<br/>
+The yellow devine tries to smash Kavadar but he manages to dodge the hit. The battle begins. No matter wwat Kavadar does he can't match the devine, evemtualy he losses almost all of his health. When this happens Tsal appears and absorbs some of the Yellow Devine's power.<br/>
+Tsal:<br/>
+-Here, Kavadar! Get up, you have a battle to win!  *Tsal again dissapears in the shadows*<br/>
+-You foolish excuse of god! You will be next after we finish with you minion!<br/>
+Kavadar gets up and again tries just to beat the boss. Then he hears Tsal's voice:<br/>
+-Go for their eyes, Kavadar. If they can't see you they can't hurt you.<br/>
+4 stages come where in each of them Kavadar takes down one of the couple's eyes.
+When Kavadar manages to do that Tsal comes again and absorbs a bit more from their powers.<br/>
+-Hit them now, Kavadar. They are more weak!<br/>
+After Kavadar finishes this stage as well the Yellow Devine gets more angry.<br/>
+-That's enough! We will make you sorry for this Kavadar! Together we are stronger!<br/> *The devine calls every yellow being in the realm and combines them with themselves to become one gigantic titan*<br/>
+Tsal:<br/>
+-Go Kavadar, climb in and get to their brain. This is their weak spot!<br/>
+
+Kavadar goes trough the titan level which requires speed and acuracy and reaches their brain. He penetrates it and absorbs some of their power. This destroys the titan and weakens The Yellow Devine to the level of Kavadar.<br/>
+*Kavadar receives yellow powers*
+They take the time while falling to recover themselves from the leathal damage that Kavadar gave them. After that they try to escape. Kavadar chases them trough some levels and eventualy reaches them just before the gates of Deathland.<br/>
+Kavadar:<br/>
+-It's over, devine ones! There is no where else to run!<br/>
+Xanthous:<br/>
+-You are right. No for us and no for you! *tries to destroy the gates with a blast, but Tsal comes from nowhere and deflects it.<br/>
+Tsal:<br/>
+-Cmon Kavadar, let's defeat them once and for all!<br/>
+
+Kavadar fights with Xanthous while Tsal fights with Amber. The next stage they switch. Kavadar injures Amber really bad, which causes Xanthous to slip from Tsal and start attacking Kavadar with all the power he has left. Kavadar eventualy manages to defeat Xanthous as well and chooses to either spare [S] spear the couple or kill [K] them.<br/>
+
+[S]<br/>
+Kavadar:<br/>
+-Calm down Xanthous. I will not hurt you or your girl. I just want to come back to my realm. Nothing more.<br/>
+Xanthous:<br/>
+-...<br/>
+Amber:<br/>
+-Do you realize what you did?! You ruined everything, so many lives, so many...<br/>
+ Tsal:<br/>
+ -Shut your trap, Amber! You are literaly the last person that have the right to speak right now! Be glad that the dodger spared you!<br/>
+ - ...<br/>
+
+[K]<br/>
+Kavadar:<br/>
+-Your thirany is over Yellow Devine!<br/>
+Tsal:<br/>
+-Kavadar, no! <br/>
+*Kavadar kills Amber and Xanthous before anyone could even do somethin*<br/>
+Tsal:<br/>
+-Kavadar... what did you gain by this?... Go... Go to the gates, but I don't promise you that they will allow you to go back.<br/>
+-...<br/>
+
+### [End of the story]
+
+Kavadar stands before the gates. They either accept him [A] or deny him [D] depending on his actions in deathland. If he has the perfect balance between kills and spares he have third ending [O].<br/>
+
+[A]<br/>
+The gates open for him. He steps in and looks back at Tsal. Tsal waves at him and tells:<br/>
+-I hope we will not meet soon again Kavadar! Take care!<br/>
+Kavadar waves back at him. At Terreene he starts his new live as a newborn baby, with no memories of what happened in Deathland. <br/>
+
+[D]<br/>
+The gates do not open for Kavadar. He looks back at Tsal and Tsal lowers his head with a sad expression. Kavadar notices that he a black tint spreads on his body. Within few seconds he becomes all black and freezes like a statue.<br/>
+-I warned you Kavadar... Now the best I can do is to let you live here as a colored being... I am sorry, dodger. Tsal absorbs the powers from Kavadar, which turnsn Kavadar into a red colored being. He does not remember what he did till now. Tsal dissapears in the shadows and leaves Kavadar to wonder in the depts of Deathland.<br/>
+
+[O]<br/>
+The gates open for Kavadar, but he does not step in. Instead he turns to Tsal and tells him:<br/>
+-So... What do you plan to do now?<br/>
+-I will restore the realm and try to think of something that will prevent such rebelion from ever happening again. Why ?<br/>
+-That sound great, Tsal... Ehm... I will not remember anything after I come back to Terreene, right?<br/>
+-I am afraid you won't, dodger.<br/>
+-Eh... Tsal... I want to give you something as a memory from me. Come.<br/>
+Tsal comes closer to Kavadar. Kavadar uses this moment to take out his sword and penetrate Tsal.<br/>
+-Since I am here I wonder what would happen if you try to kill a god.<br/>
+*Tsal is in shock*<br/>
+-Kavadar...<br/>
+*Kavadar starts absorbing Tsal's powers*<br/>
+-To be honest I really liked the taste of power. I think I am good replacement of you old god. I will never make the same mistakes as you. With your powers I will destroy anyone who dares not to obey me!<br/>
+-Your body... can't handle my power you fool...<br/>
+-Then I will change my body when it's needed. I have an endless supply of evercoming creatures here, that I can use as my body.<br/>
+-Kavadar... You are the end of all the 4 realms! <br/>
+-Don't be silly old man. I am sorry you won't live to see my triumph over these realms!<br/>
+Kavadar absorbs the last drop of Tsal's powers, which causes Tsal to wither and decompose into particles.<br/>
+Kavadar goes back to absorb all the left powers from the biome rulers that have survived so he can become even more powerful.<br/>
+Since then Kavadar started rulling the 4 realms with iron fist for long, long times.<br/>
 
 
 # GAME LORE
