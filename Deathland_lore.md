@@ -8,13 +8,13 @@ Kavadar. He does not know what is happening yet. The only thing he knows is
 that he must continue further out of the white room. Kavadar goes through a 
 short tutorial of the basic movements. Kavadar meets his first enemy and learns
 how to hit them with a basic attack. Kavadar keeps killing more enemies on his 
-way. During that time he is introduced to verdure 1) potions (that he will be 
-finding from time to time throughout the game). Eventually he faces an enemy 
-that is holding a unique-looking red sword. Kavadar kills him and receives the 
-sword. He also receives a body. He discovers that with that body he is way 
-stronger. Kavadar continues to go deeper in what looks like a dungeon, solving 
-puzzles, going through obstacles and dealing with enemies. After some time he 
-reaches an old stone sign that says:<br/>
+way. During that time he is introduced to [verdure](#game-dictionary) potions 
+(that he will be finding from time to time throughout the game). Eventually he 
+faces an enemy that is holding a unique-looking red sword. Kavadar kills him 
+and receives the sword. He also receives a body. He discovers that with that 
+body he is way stronger. Kavadar continues to go deeper in what looks like a 
+dungeon, solving puzzles, going through obstacles and dealing with enemies. 
+After some time he reaches an old stone sign that says:<br/>
 "If life is what you seek you shall fear not keep. Deep ahead life awaits 
 behind Deathland's heavy gates"<br/>
 Kavadar:<br/>
@@ -53,11 +53,11 @@ Redéye:<br/>
     - *catches her breath* Keep it. You weld it good.<br/>
     - Thank you then. I didn't catch your name.<br/>
     - It's Redéye... Tell me Kavadar. Why are you really here? You are not a 
-    standard dodger. 2)<br/>
+    standard [dodger](#game-dictionary).<br/>
     - I don't really know. I don't even know where I am coming from.<br/>
-    - Ah, you are one of them. One of the consecrated ones. I should kill you 
-    right here and now. But since you spared my life I will spare yours as
-    well. 3)<br/>
+    - Ah, you are one of them. One of the [consecrated](#game-dictionary) ones.
+    I should kill you right here and now. But since you spared my life I will 
+    spare yours as well.<br/>
     - Wait I don't understand really. What do you mean?<br/>
     - You will find out soon enough. I wish you best of luck! You will need it, 
     Kavadar! - Goes away.<br/>
@@ -138,7 +138,7 @@ Bubble'Blu:<br/>
     Red and the Green biomes. And honestly, I should thank you. Now my people 
     will be able to take over their territories easily.
     We shall not fight now. I will even forgive you for slaughtering some of my
-    men and let you go. What do you say, dodger ?<br/>
+    men and let you go. What do you say, dodger?<br/>
 
 Kavadar chooses to agree[A] or to continue the conversation[C]<br/>
 
@@ -152,7 +152,7 @@ begins with Kavadar on half health<br/>
     - And why should I trust you? Don't you need to kill me because I, like the
     other rulers, am a consecrated one?<br/>
 Buble'Blu:<br/>
-    - No... no,no,no. As you can see dodger I am not like the others. I don't 
+    - No... no,no,no. You see dodger, I am not like the others. I don't 
     follow the rules of this wretched realm. I like to take a good chance when
     I see it. You understand?<br/>
     - Ok... May I ask you something?<br/>
@@ -202,7 +202,7 @@ Buble'Blu:<br/>
     - Your memories are lost, dodger. Only your knowledge remains. This is what 
     remains through all the realms you go through.<br/>
 
-Crowd of mixed color beings:<br/>
+Crowd of mixed Color Beings:<br/>
     - Kavadar! Kavadar! Kavadar!<br/>
 
 Buble'Blu:<br/>
@@ -214,7 +214,7 @@ Kavadar:<br/>
     *a big drop of water falls on Kavadar and he receives the blue power from 
     Buble'Blu*<br/>
 
-Buble'Blu leaves and many mixed-colored beings come to attack Kavadar. Most of 
+Buble'Blu leaves and many Color Beings come to attack Kavadar. Most of 
 them are from colors that he already met, but some of them are other colors 
 like Brown and Pink.<br/>
 
@@ -233,7 +233,7 @@ God Tsal:<br/>
     for my blunder?<br/>
 Kavadar:<br/>
     - Eh... no. My name is Kavadar. How did you get in there?<br/>
-    - Kava...? Kavadar? Colored beings should not have names. Are you a new
+    - Kava...? Kavadar? Color Beings should not have names. Are you a new
     ruler that has claimed the powers that were once part of mine?<br/>
     - Well no. I am just trying to find the way out if this place.<br/>
     - The way out? Are you...? Are you a consecrated dodger?<br/>
@@ -241,7 +241,7 @@ Kavadar:<br/>
     - Oh no! I am literally the only person in this realm that will help you,
     believe it or not. But first you need to get me out of here! Only we can
     help each other.<br/>
-    - Ok but how can you help me ?<br/>
+    - Ok but how can you help me?<br/>
     - I know how to defeat the rulers of the realm! As well as how to bring you 
     back to Terrene.<br/>
     - Terrene... You mean... You know how to bring me back to life?<br/>
@@ -267,7 +267,7 @@ starts the conversation:<br/>
 
 Mudmor'g:<br/>
     - Ah, Kavadar! The consecrated one! The king-slayer! The murderer of all
-    colored beings! They warned me that you could come for me. So I prepared<br/>
+    Color Beings! They warned me that you could come for me. So I prepared<br/>
 Kavadar:<br/>
     - I did not come to fight you, but if you stand in my way I will not have
     any other choice!<br/>
@@ -316,8 +316,8 @@ Plum'fe:<br/>
 Kavadar:<br/>
     - You must be Plum'fe. Where are you hiding?<br/>
     - Do you really think that you will manage to defeat me, dodger? I am not 
-    like the rulers you met. <br/>
-    - Show yourself you shadow!<br/>
+    like the rulers you met.<br/>
+    - Show yourself, you shadow!<br/>
     - And what will you do if I do so? You are so weak that I can kill you
     without even raising my hand.<br/>
     - That's enough! Stop toying with me!<br/>
@@ -330,6 +330,7 @@ Kavadar becomes Blue, because of his shape, which has a water mask, he does not
 breathe the pink air.<br/>
 
 Result: battle begins with Kavadar having full health<br/>
+In this boss battle the boss will use the pink air from time to tie<br/>
 
 [C]<br/>
 Kavadar becomes Red, but this achieves nothing.<br/>
@@ -360,7 +361,7 @@ dimension.<br/>
 *(Dido suggesting here :D : I was thinking maybe to look black, scary tall, 
 creepy and evil, something like that as a contrast to his good personality. Or 
 maybe to be white and to look like a flying body part, idk something strange 
-you know ? :D Anyway I guess we will leave this for further discussion later.)*<br/>
+you know? :D Anyway I guess we will leave this for further discussion later.)*<br/>
 Kavadar:<br/>
     - ...<br/>
     - So Kavadar. Let's get you back to your realm.<br/>
@@ -401,11 +402,11 @@ Kavadar:<br/>
     - Hm... Redéye has become careless. Listen, there is one really important 
     thing that I want to tell you about these powers. I tried to tell you the 
     previous time but you couldn't hear me.<br/>
-    - What is it ?<br/>
-    - You need to be careful what you... Kavadar, look out, colored beings, they
+    - What is it?<br/>
+    - You need to be careful what you... Kavadar, look out, Color Beings, they
     found us. Run dodger, I will meet you later.<br/>
 God Tsal shadow slips *(like Agu from samurai jack xD)* and runs away.<br/>
-Kavadar fights with the colored beings and continues on his way.<br/>
+Kavadar fights with the Color Beings and continues on his way.<br/>
 Again puzzles, mazes, obstacles and so on until he reaches the orange biome.<br/>
 
 ### [The orange ones]
@@ -454,7 +455,7 @@ Tsal:<br/>
     - And what? Isn't this good?<br/>
     - No, you fool! Your physical form can't handle that much power, you are not
     a god to do so. The powers will corrupt you over time and will make you a 
-    regular colored being! Then the powers will leave you and go in the closest
+    regular Color Being! Then the powers will leave you and go in the closest
     god, which is me. Further more these powers react to your actions. If you do
     evil with them they will corrupt you faster, if you do good the corruption 
     will be reduced for a short period of time. Tell me dodger, how many rulers
@@ -492,7 +493,7 @@ Tsal:<br/>
     - And what now? <br/>
     - Well, your physical form can't handle that much power, you are not a god 
     to do so. The powers will corrupt you over time and will make you a regular
-    colored being! Then the powers will leave you and go in the closest god, 
+    Color Being! Then the powers will leave you and go in the closest god, 
     which is me. Furthermore these powers react to your actions. If you do evil
     with them they will corrupt you faster, if you do good the corruption will 
     be reduced for a short period of time. Tell me, dodger, how many rulers
@@ -521,7 +522,7 @@ Kavadar:<br/>
 Plum'fe:<br/>
     - Consecrated one. Are you ready to face your destiny?<br/>
     - Bring it on empress!<br/>
-At this moment many colored beings come to kill Kavadar, he jumps around and 
+At this moment many Color Beings come to kill Kavadar, he jumps around and 
 fights them, after a while he barely manages to kill them.<br/>
 Kavadar:<br/>
     - Face me Plum'fe! Do you fear my power that much?<br/>
@@ -749,8 +750,8 @@ head with a sad expression. Kavadar notices that a black tint has spread on his
 body. Within a few seconds he becomes all black and freezes like a statue.<br/>
 Tsal:<br/>
     - I warned you Kavadar... Now the best I can do is to let you live here as
-    a colored being... I am sorry, dodger. Tsal absorbs the powers from Kavadar,
-    which turns Kavadar into a red colored being. He does not remember what he
+    a Color Being... I am sorry, dodger. Tsal absorbs the powers from Kavadar,
+    which turns Kavadar into a red Color Being. He does not remember what he
     did until now. Tsal vanishes into the shadows, leaving Kavadar to wander
     the depths of Deathland.<br/>
 
@@ -798,7 +799,7 @@ the world of the dead without having any idea who he is, where he is and what
 happened. His goal is to find out what is happening as well as to decide what
 he should do in this realm.<br/>
 
-The Color Beings:<br/>
+Color Beings:<br/>
 The Color Beings were created by The Long Forgotten Gods. Each color corresponds
 to a different area of existing. Each unconsecrated dodger would become a color
 being and specifically the type of being that corresponds to their failed
@@ -875,7 +876,7 @@ rebellion against the Long Forgotten Gods. She is responsible for imprisoning
 them as well. Since she was so proud of her deed she often went to torture and
 play with the gods. She was the only one who knew where they were, assuring
 herself that no one could ever help them. Plum'fe is beautiful and cruel, 
-she can manipulate colored beings that are on a lower level than hers. Her
+she can manipulate Color Beings that are on a lower level than hers. Her
 favorite weapons are spear-lollypop, sharp candies and pink magic.<br/>
 
 Lord Maulve:<br/>
@@ -896,7 +897,7 @@ likes to use tech electric traps and lightnings as well.<br/>
 
 The Yellow Devine:<br/>
 They are a couple named Amber(female) and Xanthous(male). They were just normal
-colored beings before the rebellion. Xanthous joined the rebellion and managed
+Color Beings before the rebellion. Xanthous joined the rebellion and managed
 to steal the power from the gods under the nose of his leader. After that he
 shared it with Amber. They became rulers of the Yellow biome. It turned out
 that because Xanthous shared his power with Amber they were way more powerful
