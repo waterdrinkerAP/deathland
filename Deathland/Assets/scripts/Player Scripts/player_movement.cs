@@ -6,16 +6,29 @@ public class player_movement : MonoBehaviour
 {
     private Rigidbody2D body;
     private Animator anim;
-    public float speed;
-    private bool isGrounded;
+    private BoxCollider2D boxCollider;
+    [SerializeField]
+    private LayerMask groundLayer;
+    [SerializeField]
+    private LayerMask wallLayer;
+    [SerializeField]
+    private float speed;
+    [SerializeField]
+    private float jumpPower;
+    private float wallJumpCooldown = 1;
+
 
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        boxCollider = GetComponent<BoxCollider2D>();
+       
+
 
     }
 
+    
     private void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
@@ -32,11 +45,26 @@ public class player_movement : MonoBehaviour
             transform.localScale = new Vector3(-2,2,2);
         }
 
-        if (Input.GetKey(KeyCode.Space))
+        //wall jump logic
+        if (wallJumpCooldown > 0.2f)
         {
-            jump();
+            if (Input.GetKey(KeyCode.Space) && isGrounded())
+            {
+                jump();
+            }
+
+            if(onWall() && !isGrounded())
+            {
+                body.gravityScale = 0;
+                body.velocity = Vector2.zero;
+            }
+            else
+            {
+                body.gravityScale = 3;
+            }
         }
 
+        
 
         //=================================================================================== ANIMATION BOOLEANS =================================================================
 
@@ -45,24 +73,46 @@ public class player_movement : MonoBehaviour
         // we put a statement that checks wethather the character is in motion
         anim.SetBool("run", horizontalInput != 0);
         //setting the boolean in the engine to the current state
-        anim.SetBool("isGrounded", isGrounded);
+        anim.SetBool("isGrounded", isGrounded());
+
+        
+    }
+    
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        
     }
 
     //=================================================================================== FUNCTIONS =================================================================
     private void jump()
     {
-        //keeping the orientation and speed of the character the same as
-        //before pressing the jump button
-        body.velocity = new Vector2(body.velocity.x, speed);
-        //changing the state of the character to not grounded
-        isGrounded = false;
+        if (isGrounded())
+        {
+
+            //keeping the orientation and speed of the character the same as
+            //before pressing the jump button
+            body.velocity = new Vector2(body.velocity.x, jumpPower);
+            anim.SetTrigger("jump");
+        }
+        else if(onWall() && !isGrounded())
+        {
+            wallJumpCooldown = 0;
+            body.velocity = new Vector2(-Mathf.Sign(transform.localPosition.x) * 3, jumpPower);
+        }
+        
     }
 
-    private void onCollisionEnter2D(Collision2D collision)
+    private bool isGrounded()
     {
-        if (collision.gameObject.tag == "Ground")
-        {
-            isGrounded = true;
-        }
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.01f, groundLayer);
+        return raycastHit.collider != null;
     }
+
+    private bool onWall()
+    {
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, new Vector2(transform.localScale.x,0), 0.01f, wallLayer);
+        return raycastHit.collider != null;
+    }
+
 }
