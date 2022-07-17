@@ -87,5 +87,5 @@ Purple: mage
 Green: undead ( maybe a skeleton with a flower on his head )
 Yellow: angel
 Orange: cyborg
-Pink: a rose
+Pink: a rose /
 
