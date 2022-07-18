@@ -11,3 +11,6 @@
 - Pink - can stick to walls and slowly slide down if not jump away immediately 
 
 ## [Battle]
+
+## [Ideas]
+ To add an option in the end of the game that allowes to the player to go back to the past levels and use his new powers and discover collectables and so on. This idea came in my mind mostly because I thought it would be cool to be able to travel between the mentioned worlds and explore stuff there, but to reach them to be really hard. Or maybe we can leave this thing as potencial dlc idk ;)
