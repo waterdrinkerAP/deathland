@@ -1,0 +1,64 @@
+Assets:
+	Prefabs, scenes, scripts, sprites, other such things
+
+	Prefabs:
+		enemies_prefabs, player_prefabs, props_prefabs, other types of prefabs
+
+	Scenes:
+		scene1,scene2 and so on and so on
+
+	Scripts:
+		Player_scripts, AI_scripts, Game_event_scripts, Game_manager_scripts, and so on
+		
+		Player_scripts:
+				script1,script2,script3 and so on
+		AI_scripts:
+			Enemy_scripts, Boss_scripts, Level_scripts, NPC_scripts
+
+			Enemy_scripts:
+				enemmy_type1, enemy_type2, ...
+
+		Game_event_scripts:
+				Dialogue_scripts, Death_event_script
+		Game_manager_scripts:	
+				saving_progress, pause_menu, settings, ...
+
+	Sprites:	
+		Animations, Tiles, Pure_sprites, Cutscenes, everything related to visuals basicaly
+		Animations:
+			Red_player_anims, Blue_player_anims, Enemy1_anims, Boss1_anims,NPC_anims, other anims ...
+			Red_player_anims:
+					idle,jump,run and so on
+			Enemy1_anims:
+					idle, jump, attack, idk
+			...
+		Tiles:
+			Blue_biom_tiles, Basic_Deathland_tiles, Red_biom_tiles, Test_tiles
+			Blue_biom_tiles:
+					Tiles, image where tiles comes from, unity tiles file 
+					Tiles:
+						Many separated tiles, background and non tiles
+			Red_biom_tiles:
+					Tiles, image where tiles comes from, unity tiles file 
+					Tiles:
+						Many separated tiles, background and non tiles
+			...
+		
+		Pure_sprites:
+			Player_sprites, Eneies_sprites, Boss_sprites, Props_sprites, Npc_sprites, ...
+			Player_sprites:
+				Red_player_sprites, Blue_player_sprites, ...
+				Red_player_sprites:
+						the spritesheet with animated character and also separated frames
+				...
+			Enemies_sprites:
+				Green_enemmy1, Green_enemyN, Blue_enemyN
+				Green_enemy1:
+					the spritesheet with animated character and also separated frame
+				...
+			Prop_sprites:
+				basically pictures of the different props
+			...
+		Cutscenes:
+			depending on how we make it we will have folders for different cutscenes
+			
