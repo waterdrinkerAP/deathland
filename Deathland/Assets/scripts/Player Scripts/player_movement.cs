@@ -16,6 +16,9 @@ public class player_movement : MonoBehaviour
     [SerializeField]
     private float jumpPower;
     private float wallJumpCooldown = 1;
+    private float horizontalInput;
+    public bool iswall;
+    public bool grounded;
 
 
     private void Awake()
@@ -31,7 +34,7 @@ public class player_movement : MonoBehaviour
     
     private void Update()
     {
-        float horizontalInput = Input.GetAxis("Horizontal");
+        horizontalInput = Input.GetAxis("Horizontal");
         body.velocity = new Vector2(speed * horizontalInput, body.velocity.y);
 
         //changing the orientation of the character according to the direction
@@ -63,7 +66,10 @@ public class player_movement : MonoBehaviour
                 body.gravityScale = 3;
             }
         }
-
+        else
+        {
+            wallJumpCooldown += Time.deltaTime;
+        }
         
 
         //=================================================================================== ANIMATION BOOLEANS =================================================================
@@ -74,6 +80,9 @@ public class player_movement : MonoBehaviour
         anim.SetBool("run", horizontalInput != 0);
         //setting the boolean in the engine to the current state
         anim.SetBool("isGrounded", isGrounded());
+
+        iswall = onWall();
+        grounded = isGrounded();
 
         
     }
@@ -95,10 +104,22 @@ public class player_movement : MonoBehaviour
             body.velocity = new Vector2(body.velocity.x, jumpPower);
             anim.SetTrigger("jump");
         }
+        //TODO: wall jump does not work. Does not enter if statement. fix it.
         else if(onWall() && !isGrounded())
         {
+            if (horizontalInput == 0)
+            {
+                body.velocity = new Vector2(-Mathf.Sign(transform.localPosition.x) * 10, 0);
+                transform.localScale = new Vector3(-Mathf.Sign(transform.localPosition.x), transform.localScale.y, transform.localScale.z);
+
+            }
+            else
+            {
+                body.velocity = new Vector2(-Mathf.Sign(transform.localPosition.x) * 3, 6);
+
+            }
+            System.Console.WriteLine("WALL JUMP");
             wallJumpCooldown = 0;
-            body.velocity = new Vector2(-Mathf.Sign(transform.localPosition.x) * 3, jumpPower);
         }
         
     }
