@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4549732627335488448}
   - component: {fileID: 4549732627335488449}
-  - component: {fileID: 4549732627335488453}
   - component: {fileID: 4549732627335488450}
   - component: {fileID: 4549732627335488451}
   - component: {fileID: 4549732627335488452}
+  - component: {fileID: 1150632409483241240}
   m_Layer: 0
   m_Name: test_player
   m_TagString: Player
@@ -85,26 +85,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &4549732627335488453
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4549732627335488462}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c202b6ae21014dc429fa6183373cb0a1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 256
-  wallLayer:
-    serializedVersion: 2
-    m_Bits: 512
-  speed: 10
-  jumpPower: 20
 --- !u!61 &4549732627335488450
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -171,3 +151,25 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1150632409483241240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4549732627335488462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c202b6ae21014dc429fa6183373cb0a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  wallLayer:
+    serializedVersion: 2
+    m_Bits: 528
+  speed: 10
+  jumpPower: 10
+  iswall: 0
+  grounded: 0

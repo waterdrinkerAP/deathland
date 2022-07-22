@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class player_movement : MonoBehaviour
+public class Player_movement : MonoBehaviour
 {
     private Rigidbody2D body;
     private Animator anim;
@@ -26,12 +26,12 @@ public class player_movement : MonoBehaviour
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         boxCollider = GetComponent<BoxCollider2D>();
-       
+
 
 
     }
 
-    
+
     private void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
@@ -39,13 +39,13 @@ public class player_movement : MonoBehaviour
 
         //changing the orientation of the character according to the direction
         //he is moving to
-        if(horizontalInput > 0.01f)
+        if (horizontalInput > 0.01f)
         {
-            transform.localScale = new Vector3(2,2,2);
+            transform.localScale = new Vector3(2, 2, 2);
         }
-        else if(horizontalInput < -0.01f)
+        else if (horizontalInput < -0.01f)
         {
-            transform.localScale = new Vector3(-2,2,2);
+            transform.localScale = new Vector3(-2, 2, 2);
         }
 
         //wall jump logic
@@ -56,7 +56,7 @@ public class player_movement : MonoBehaviour
                 jump();
             }
 
-            if(onWall() && !isGrounded())
+            if (onWall() && !isGrounded())
             {
                 body.gravityScale = 0;
                 body.velocity = Vector2.zero;
@@ -70,7 +70,7 @@ public class player_movement : MonoBehaviour
         {
             wallJumpCooldown += Time.deltaTime;
         }
-        
+
 
         //=================================================================================== ANIMATION BOOLEANS =================================================================
 
@@ -84,13 +84,13 @@ public class player_movement : MonoBehaviour
         iswall = onWall();
         grounded = isGrounded();
 
-        
+
     }
-    
+
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        
+
     }
 
     //=================================================================================== FUNCTIONS =================================================================
@@ -105,7 +105,7 @@ public class player_movement : MonoBehaviour
             anim.SetTrigger("jump");
         }
         //TODO: wall jump does not work. Does not enter if statement. fix it.
-        else if(onWall() && !isGrounded())
+        else if (onWall() && !isGrounded())
         {
             if (horizontalInput == 0)
             {
@@ -121,7 +121,7 @@ public class player_movement : MonoBehaviour
             System.Console.WriteLine("WALL JUMP");
             wallJumpCooldown = 0;
         }
-        
+
     }
 
     private bool isGrounded()
@@ -132,7 +132,7 @@ public class player_movement : MonoBehaviour
 
     private bool onWall()
     {
-        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, new Vector2(transform.localScale.x,0), 0.01f, wallLayer);
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.01f, wallLayer);
         return raycastHit.collider != null;
     }
 
